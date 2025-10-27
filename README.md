@@ -4,8 +4,12 @@ Absolutely! Here’s a **professional, clear, and well-structured README** for y
 
 # YouTube Trending Video Analytics
 
-**Author:** [Your Name]
-**Email:** [[yourname@email.com](mailto:yourname@email.com)]
+**Author:** [Harikishan S.P]
+**Email:** [[hk9070689@email.com](mailto:hk9070689@email.com)]
+
+---
+# Deliverables is in the Google Drive
+**Link:[Youtube Trending Video Analysis ]((https://drive.google.com/drive/folders/18ri2RN9o-V1VeFL8sJZ7QAZHR1vj_XLW?usp=sharing))**
 
 ---
 
@@ -113,5 +117,6 @@ The final output is an **interactive Power BI storytelling dashboard**, showcasi
 ## **Conclusion**
 
 This project demonstrates how data analytics, NLP, and visualization can uncover insights from real-world digital data. By exploring YouTube trends globally, the project highlights patterns in content popularity, emotional influence on viewers, and the dynamics of trending videos. The final Power BI dashboard provides a comprehensive, interactive, and engaging storytelling experience.
+
 
 ---
